@@ -4,7 +4,8 @@
     { "id": 2, "username": "admintest2", "password": "123456" },
     { "id": 3, "username": "admintest3", "password": "123456" }
   ],
-  "province": [
+province{    
+  "en": [
       {
         "pid": "10",
         "name": "Bangkok"
@@ -314,4 +315,5 @@
         "name": "Narathiwat"
       }
     ]  
+  }
 }
