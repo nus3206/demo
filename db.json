@@ -1,4 +1,34 @@
 {
+	"role_user": [
+	    {
+	      "id": "1",
+	      "role_id": "Admin",
+	      "role_name": "Administrator",
+	      "status": "1",
+	      "menu_id": "0"
+	    },
+	    {
+	      "id": "2",
+	      "role_id": "Dashboard-User",
+	      "role_name": "Dashboard User",
+	      "status": "1",
+	      "menu_id": "0"
+	     },
+	     {
+	      "id": "3",
+	      "role_id": "Group Head",
+	      "role_name": "Group Head",
+	      "status": "1",
+	      "menu_id": "0"
+	    },
+	    {
+	      "id": "4",
+	      "role_id": "Outreach-Worker",
+	      "role_name": "Outreach-Worker",
+	      "status": "1",
+	      "menu_id": "0"
+	    }		
+	],	
   "cohort_summary": [
     {
       "id": "1",
