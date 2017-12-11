@@ -1,4 +1,24 @@
 {
+  "cohort summary": [
+    {
+      "id": "1",
+      "org_name": "DICBKK01",
+      "desccription": "สมาคมแนวร่วมธุรกิจไทยต้านภัยเอดส์",
+      "reach": "0",
+      "recruit": "0",
+      "test": "0",
+      "positive": "0"
+    },
+    {
+      "id": "2",
+      "org_name": "DICBKK02",
+      "desccription": "สมาคมวางแผนครอบครัวแห่งประเทศไทยฯ",
+      "reach": "0",
+      "recruit": "0",
+      "test": "0",
+      "positive": "0"
+    }
+],
   "users": [
     { "id": 1, "username": "admintest1", "password": "123456" },
     { "id": 2, "username": "admintest2", "password": "123456" },
