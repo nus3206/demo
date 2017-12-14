@@ -57,46 +57,46 @@
 "near_me": {
 		"location": [
 			{
-				"id": "1",
-				"name": "รพ.ราชวิถี",
-				"latitude": "13.764563000000026",
-				"longitude": "100.53634999999997",
-        "nation": "Thailand",
-        "province": "Bankkok",
-        "district": "ราชเทวี",
-        "sub_district": " ทุ่งพญาไท",
-        "address": "",
-        "postelcode": "10400",
-        "tel": "02 354 8108",
-        "Facility": "โรงพยาบาล"
-			},
-			{
-				"id": "2",
-				"name": "สถาบันสุขภาพเด็กแห่งชาติมหาราชินี",
-				"latitude": "13.7659465",
-				"longitude": "100.5353223",
-        "nation": "Thailand",
-        "province": "Bankkok",
-        "district": "ราชเทวี",
-        "sub_district": " ทุ่งพญาไท",
-        "address": "",
-        "postelcode": "10400",
-        "tel": "02 354 8333",
-        "Facility": "โรงพยาบาลเด็ก"
-			},
-			{
-				"id": "3",
-				"name": "โรงพยาบาลพระมงกุฎเกล้า",
-				"latitude": "13.7678374",
-				"longitude": "100.5326907",
-        "nation": "Thailand",
-        "province": "Bankkok",
-        "district": "ราชเทวี",
-        "sub_district": " ทุ่งพญาไท",
-        "address": "",
-        "postelcode": "10400",
-        "tel": "02 763 9300",
-        "Facility": "โรงพยาบาล"
+			"id": "1",
+			"name": "รพ.ราชวิถี",
+			"latitude": "13.764563000000026",
+			"longitude": "100.53634999999997",
+			"nation": "Thailand",
+			"province": "Bangkok",
+			"district": "ราชเทวี",
+			"sub_district": " ทุ่งพญาไท",
+			"address": " ราชเทวี ทุ่งพญาไท Bangkok Thailand ",
+			"postelcode": "10400",
+			"tel": "02 354 8108",
+			"Facility": "โรงพยาบาล"
+					},
+					{
+			"id": "2",
+			"name": "สถาบันสุขภาพเด็กแห่งชาติมหาราชินี",
+			"latitude": "13.7659465",
+			"longitude": "100.5353223",
+			"nation": "Thailand",
+			"province": "Bangkok",
+			"district": "ราชเทวี",
+			"sub_district": " ทุ่งพญาไท",
+			"address": " ราชเทวี ทุ่งพญาไท Bangkok Thailand ",
+			"postelcode": "10400",
+			"tel": "02 354 8333",
+			"Facility": "โรงพยาบาลเด็ก"
+					},
+					{
+			"id": "3",
+			"name": "โรงพยาบาลพระมงกุฎเกล้า",
+			"latitude": "13.7678374",
+			"longitude": "100.5326907",
+			"nation": "Thailand",
+			"province": "Bangkok",
+			"district": "ราชเทวี",
+			"sub_district": " ทุ่งพญาไท",
+			"address": " ราชเทวี ทุ่งพญาไท Bangkok Thailand ",
+			"postelcode": "10400",
+			"tel": "02 763 9300",
+			"Facility": "โรงพยาบาล"
 			}
 		]
 	}}  
